@@ -3,7 +3,7 @@ copyright = "This work is licensed under the Creative Commons Attribution 3.0 Un
 date = "2013-06-18 01:35:54 +0000";
 designer = "Ali Mihandoost";
 designerURL = "http://ali.md/";
-familyName = "EncryptedPersianFont";
+familyName = "Encrypted Persian";
 fontMaster = (
 {
 ascender = 1000;
@@ -4266,6 +4266,12 @@ name = "Regular";
 }
 );
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"3D323242-F336-407C-B164-DE86AA499667" = {
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }
