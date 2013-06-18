@@ -790,17 +790,6 @@ width = 556;
 unicode = 0622;
 },
 {
-glyphname = "alefMadda-ar.fina";
-layers = (
-{
-layerId = "3D323242-F336-407C-B164-DE86AA499667";
-name = "Regular";
-width = 600;
-}
-);
-unicode = FE82;
-},
-{
 glyphname = "alefMaksura-ar";
 lastChange = "2013-06-18 01:36:13 +0330";
 layers = (
